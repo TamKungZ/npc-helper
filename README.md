@@ -1,2 +1,2 @@
 # npc-helper
-NPC Helper For Stardew Valley
+Not ready yet.
